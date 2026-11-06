@@ -91,16 +91,23 @@ ODISHA-RAINFALL-ANALYSIS/
 
 ## 📈 Visualizations
 
-The project includes six visualizations:
+### 1. Monthly Rainfall Analysis
+![Monthly Rainfall](images/monthly_rainfall.png)
 
-| Visualization | Description |
-|---|---|
-| Monthly Rainfall | Shows average rainfall across the 12 months. |
-| Yearly Rainfall | Compares average rainfall across 2020–2025. |
-| Rainfall Distribution | Displays the distribution of rainfall observations. |
-| District Rainfall | Compares average rainfall across districts. |
-| Rainfall Heatmap | Shows rainfall patterns across districts and years. |
-| Rainfall Trends | Compares district-level rainfall averages in 2020 and 2025. |
+### 2. Yearly Rainfall Analysis
+![Yearly Rainfall](images/yearly_rainfall.png)
+
+### 3. Rainfall Distribution
+![Rainfall Distribution](images/rainfall_distribution.png)
+
+### 4. District-wise Rainfall Analysis
+![District Rainfall](images/district_rainfall.png)
+
+### 5. Rainfall Heatmap
+![Rainfall Heatmap](images/rainfall_heatmap.png)
+
+### 6. Rainfall Trend Comparison (2020–2025)
+![Rainfall Trends](images/rainfall_trends.png)
 
 ## 🔍 Key Findings
 
