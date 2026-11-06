@@ -112,7 +112,6 @@ ODISHA-RAINFALL-ANALYSIS/
 ## 🔍 Key Findings
 
 - The analysis covers **30 districts** over **6 years**.
-- The processed dataset contains **2,160 observations**.
 - July and August have the highest average monthly rainfall.
 - Malkanagiri has the highest overall district average in the analyzed period.
 - Koraput recorded the largest percentage increase in average monthly rainfall between 2020 and 2025.
